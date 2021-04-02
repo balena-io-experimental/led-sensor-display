@@ -5,7 +5,7 @@ Display the data output of the [sensor block](https://github.com/balenablocks/se
 
 ## Overview
 
-This project uses an I2C four digit LED display such as [this one](https://www.adafruit.com/product/881) from Adafruit. (They are available in other colors as well!) Our example uses the Raspberry Pi 3A but any Pi should work. You can add a button to GPIO16 (pin 36) to toggle through the data fields being displayed. You can also set the device variable `DISPLAY_INDEX` to the index of the data field (starting with 0) you want as a default value displayed on startup. (This is useful if you don't add a button and don't want the first value displayed.) In our example, we also wired a button to GPIO20 to reset the counter in the puilse block.
+This project uses an I2C four digit LED display such as [this one](https://www.adafruit.com/product/881) from Adafruit. (They are available in other colors as well!) Our example uses the Raspberry Pi 3A but any Pi should work. You can add a button to GPIO16 (pin 36) to toggle through the data fields being displayed. You can also set the device variable `DISPLAY_INDEX` to the index of the data field (starting with 0) you want as a default value displayed on startup. (This is useful if you don't add a button and don't want the first value displayed.) In our example, we also wired a button to GPIO20 to reset the counter in the pulse block.
 
 ## Usage
 
