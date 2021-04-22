@@ -1,5 +1,5 @@
 # led-sensor-display
-Display the data output of the [sensor block](https://github.com/balenablocks/sensor) or [pulse block](https://github.com/balenablocks/pulse) on an LED
+Display the data output of the [sensor block](https://github.com/balenablocks/sensor) or [pulse block](https://github.com/balenablocks/pulse) on a seven-segment LED display, as seen on the balena [IoT Happy Hour #47](https://youtu.be/GLzRwLen6Hc?t=2879)
 
 ![alt-text](https://github.com/balena-io-playground/led-sensor-display/blob/main/images/IMG_4873.jpg)
 
